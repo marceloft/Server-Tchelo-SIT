@@ -4,7 +4,7 @@
   "Description": "A New Player, terrified of everything.",
   "Assignment": {
     "MaximumOfThisTypePerRaid": 0.0,
-    "Enabled": true,
+    "Enabled": false,
     "CanBeRandomlyAssigned": false,
     "RandomlyAssignedChance": 0.0,
     "MinLevel": 0.0,

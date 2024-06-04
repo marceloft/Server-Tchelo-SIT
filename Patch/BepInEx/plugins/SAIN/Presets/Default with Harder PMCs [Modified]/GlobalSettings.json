@@ -121,7 +121,7 @@
   },
   "NoBushESP": {
     "NoBushESPToggle": true,
-    "NoBushESPEnhanced": false,
+    "NoBushESPEnhanced": true,
     "NoBushESPFrequency": 0.1,
     "NoBushESPEnhancedRatio": 0.75,
     "NoBushESPDebugMode": false
